@@ -1,6 +1,6 @@
 # Orgpiper Web
 
-Orgpiper is an Outcome Machine that acts as a friendly AI COO, guiding the organization toward outcomes it actually wants. It can run in fully autonomous mode or in human-in-the-loop mode for a COO, VP, Chief of Staff, or operator.
+Orgpiper is an Outcome Machine that acts as a calm AI COO: a minimal orb interface that answers questions, monitors desired outcomes, and reveals operational tools only when needed. It can run in fully autonomous mode or in human-in-the-loop mode for a COO, VP, Chief of Staff, or operator.
 
 This repository is a static GitHub Pages-ready website.
 
