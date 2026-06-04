@@ -920,6 +920,17 @@ img {
   font-size: 13px;
 }
 
+.fnote a {
+  color: var(--muted);
+  font-weight: 700;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+.fnote a:hover {
+  color: var(--ink);
+}
+
 .reveal {
   opacity: 1;
   transform: none;
